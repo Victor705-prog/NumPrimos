@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package numprimos;
-
+//Prueba commit Hola como estas
 import java.util.Scanner;
 
 /**
